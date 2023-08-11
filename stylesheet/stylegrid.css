@@ -39,12 +39,12 @@ body{
         height: 30px;
     }
     .black, .white{
-        height: 47px;
-        width: 47px;
+        height: 40px;
+        width: 40px;
     }
     
     .contain{
-        width: 376px;
+        width: 320px;
     }
 }
 
